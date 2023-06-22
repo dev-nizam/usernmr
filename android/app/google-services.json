@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1030668346793",
+    "firebase_url": "https://testnmr-7660b-default-rtdb.firebaseio.com",
+    "project_id": "testnmr-7660b",
+    "storage_bucket": "testnmr-7660b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030668346793:android:a64d34ba854c627272d0b8",
+        "android_client_info": {
+          "package_name": "com.example.test_nmr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030668346793-q8go84qd5re8gibci1asppp4j2fojo7c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.test_nmr",
+            "certificate_hash": "2656f720ec6783a08feaa81bb47c2d86d4a1ceab"
+          }
+        },
+        {
+          "client_id": "1030668346793-q75j3o528g0fe992qjnbu5g7kcdf33p0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiQS9Rn2adMVBkjzB_m7t6P2DLCfJXCAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030668346793-1o4esce2ausc21rbrb9dakp0fcdjlkjg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
